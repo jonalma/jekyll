@@ -21,6 +21,9 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  -moz-transform: scale(0.75, 0.75); /* Moz-browsers */
+  zoom: 0.75; /* Other non-webkit browsers */
+  zoom: 75%; /* Webkit browsers */
 }
 
 .container {
