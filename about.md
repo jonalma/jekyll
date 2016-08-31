@@ -8,7 +8,7 @@ In addition to developing software, I like hanging out with friends and family, 
 
 ### More Information
 
-This is my second website, which I have created with the help of Jekyll Now. 
+I used Jekyll now to create this website. Click on the "Codio" link above to see my other website. 
 
 ### Contact me
 
