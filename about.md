@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-In addition to developing software, I like hanging out with friends and family, hiking, rock climbing, playing basketball, and 
+Besides software development, I like hanging out with friends and family, hiking, rock climbing, playing basketball, and 
 
 ### More Information
 
