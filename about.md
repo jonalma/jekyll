@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+In addition to developing software, I like hanging out with friends and family, hiking, rock climbing, playing basketball, and 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is my second website, which I have created with the help of Jekyll Now. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jon_alma10@yahoo.com](mailto:jon_alma10@yahoo.com)
