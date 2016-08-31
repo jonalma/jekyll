@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Besides software development, I like hanging out with friends and family, hiking, rock climbing, playing basketball, and 
+Besides software development, I like hanging out with friends and family, hiking, rock climbing, basketball, and video games. 
 
 ### More Information
 
