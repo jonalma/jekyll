@@ -5,4 +5,4 @@ title: Anotha one...
 
 I'm adding another post.
 
-![_config.yml]
+({{ site.baseurl }}/images/config.png)
